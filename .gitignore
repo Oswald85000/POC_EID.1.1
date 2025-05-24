@@ -1,0 +1,6 @@
+# build artifacts
+*.o
+*.so
+obj_dir/
+*.vcd
+eid_reflex_core/test/check
